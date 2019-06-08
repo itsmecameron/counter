@@ -1,0 +1,20 @@
+*{
+
+}
+#container{
+    height: 100vh;
+    text-align:center;
+}
+
+h1{
+    margin-top:0px;
+    padding-top: 20vw;
+}
+
+h2{
+    display: inline-block;
+}
+
+#container p{
+    margin-top: 1rem;
+}
